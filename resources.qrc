@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icon/mainIcon.ico</file>
+        <file>icon/loadScreen.png</file>
+    </qresource>
+    <qresource prefix="/toolBarIcons">
+        <file>menuBarIcons/addColumn.png</file>
+        <file>menuBarIcons/deleteColumn.png</file>
+        <file>menuBarIcons/addRow.png</file>
+        <file>menuBarIcons/deleteRow.png</file>
+    </qresource>
+    <qresource prefix="/menuBarIcons">
+        <file>menuBarIcons/about.png</file>
+        <file>menuBarIcons/aboutQt.png</file>
+        <file>menuBarIcons/copy.jpg</file>
+        <file>menuBarIcons/cut.png</file>
+        <file>menuBarIcons/delete.png</file>
+        <file>menuBarIcons/paste.jpg</file>
+        <file>menuBarIcons/exit.png</file>
+        <file>menuBarIcons/new.png</file>
+        <file>menuBarIcons/open.png</file>
+        <file>menuBarIcons/save.png</file>
+        <file>menuBarIcons/saveAs.png</file>
+        <file>menuBarIcons/addColumn.png</file>
+        <file>menuBarIcons/deleteColumn.png</file>
+        <file>menuBarIcons/addRow.png</file>
+        <file>menuBarIcons/allCells.png</file>
+        <file>menuBarIcons/deleteRow.png</file>
+    </qresource>
+</RCC>
